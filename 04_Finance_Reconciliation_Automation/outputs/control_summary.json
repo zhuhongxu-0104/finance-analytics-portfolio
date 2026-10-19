@@ -1,0 +1,21 @@
+{
+  "data_type": "100% synthetic accounts payable and general ledger control test",
+  "period": "Sep 2026",
+  "invoice_register_rows": 72,
+  "gl_postings": 73,
+  "unique_invoice_ids_in_register": 74,
+  "unique_reconciliation_keys": 74,
+  "matched_keys": 66,
+  "exception_keys": 8,
+  "exception_rate_of_keys": 0.10810810810810811,
+  "invoice_register_total_usd": "232301.33",
+  "gl_total_usd": "233611.90",
+  "aggregate_invoice_minus_gl_usd": "-1310.57",
+  "issue_counts": {
+    "Amount mismatch": 3,
+    "Department mismatch": 1,
+    "Duplicate GL": 1,
+    "GL without invoice": 2,
+    "Invoice without GL": 2
+  }
+}

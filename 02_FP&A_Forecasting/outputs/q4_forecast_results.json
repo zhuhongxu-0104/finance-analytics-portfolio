@@ -1,0 +1,15 @@
+{
+  "data_type": "synthetic forecast, not historical results",
+  "forecast_assumptions": {
+    "monthly_unit_growth": 0.01,
+    "monthly_price_growth": 0.0,
+    "monthly_variable_unit_cost_increase": 0.005,
+    "monthly_fixed_opex_increase": 0.003
+  },
+  "ytd_actual_revenue_usd": 7235861.759999999,
+  "ytd_actual_profit_usd": 522943.70999999996,
+  "q4_forecast_revenue_usd": 2418057.6400000006,
+  "q4_forecast_profit_usd": 180583.54635661043,
+  "fy2026_outlook_revenue_usd": 9653919.399999999,
+  "fy2026_outlook_profit_usd": 703527.2563566105
+}

@@ -1,0 +1,89 @@
+{
+  "source_years": [
+    2024,
+    2025,
+    2026
+  ],
+  "latest_reported_revenue_usd_m": 713163,
+  "latest_reported_operating_margin": 0.041820733829433104,
+  "fiscal_2026_revenue_growth": 0.047252142117667706,
+  "latest_reported_company_fcf_usd_m": 14923,
+  "illustrative_enterprise_value_usd_m": 278104.2128646065,
+  "enterprise_value_forecast_component_usd_m": 55714.18130709686,
+  "enterprise_value_terminal_component_usd_m": 222390.03155750968,
+  "terminal_share": 0.7996643749721943,
+  "assumptions": {
+    "revenue_growth": [
+      0.046,
+      0.043,
+      0.04,
+      0.038,
+      0.035
+    ],
+    "operating_margin": [
+      0.042,
+      0.0425,
+      0.043,
+      0.0435,
+      0.044
+    ],
+    "da_pct_sales": 0.02,
+    "capex_pct_sales": 0.035,
+    "incremental_nwc_pct_of_revenue_increase": 0.0025,
+    "cash_tax_rate": 0.25,
+    "wacc": 0.075,
+    "terminal_growth": 0.025
+  },
+  "forecast": [
+    {
+      "fy": 2027,
+      "revenue": 745968.498,
+      "ebit": 31330.676916000004,
+      "nopat": 23498.007687000005,
+      "da": 14919.36996,
+      "capex": 26108.897430000005,
+      "delta_nwc": 82.01374500000006,
+      "fcff": 12226.466471999996
+    },
+    {
+      "fy": 2028,
+      "revenue": 778045.1434139999,
+      "ebit": 33066.918595095,
+      "nopat": 24800.18894632125,
+      "da": 15560.902868279998,
+      "capex": 27231.58001949,
+      "delta_nwc": 80.19161353499977,
+      "fcff": 13049.320181576248
+    },
+    {
+      "fy": 2029,
+      "revenue": 809166.94915056,
+      "ebit": 34794.17881347408,
+      "nopat": 26095.63411010556,
+      "da": 16183.3389830112,
+      "capex": 28320.843220269602,
+      "delta_nwc": 77.80451434140006,
+      "fcff": 13880.325358505756
+    },
+    {
+      "fy": 2030,
+      "revenue": 839915.2932182812,
+      "ebit": 36536.31525499523,
+      "nopat": 27402.236441246423,
+      "da": 16798.305864365626,
+      "capex": 29397.035262639845,
+      "delta_nwc": 76.8708601693032,
+      "fcff": 14726.6361828029
+    },
+    {
+      "fy": 2031,
+      "revenue": 869312.328480921,
+      "ebit": 38249.74245316052,
+      "nopat": 28687.30683987039,
+      "da": 17386.24656961842,
+      "capex": 30425.931496832236,
+      "delta_nwc": 73.49258815659938,
+      "fcff": 15574.129324499978
+    }
+  ]
+}

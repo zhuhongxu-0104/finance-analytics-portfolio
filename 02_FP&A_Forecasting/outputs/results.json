@@ -1,0 +1,14 @@
+{
+  "period": "Jan-Sep 2026",
+  "data_type": "100% synthetic, educational scenario",
+  "budget_revenue_usd": 7283614.0,
+  "actual_revenue_usd": 7235861.759999999,
+  "budget_operating_profit_usd": 727689.0,
+  "actual_operating_profit_usd": 522943.70999999985,
+  "revenue_variance_usd": -47752.24000000011,
+  "revenue_variance_pct": -0.006556118981593493,
+  "operating_profit_variance_usd": -204745.2900000001,
+  "operating_profit_variance_pct": -0.28136372818607963,
+  "volume_effect_usd": -33930.0,
+  "price_effect_usd": -13822.240000000009
+}

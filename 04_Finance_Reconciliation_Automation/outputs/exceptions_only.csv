@@ -1,0 +1,9 @@
+invoice_id,invoice_count,gl_entry_count,invoice_total_usd,gl_total_usd,difference_invoice_minus_gl_usd,invoice_department,gl_department,status,issues
+EXT-0001,0,1,0.00,900.00,-900.00,,IT,EXCEPTION,GL without invoice
+EXT-0002,0,1,0.00,1750.00,-1750.00,,IT,EXCEPTION,GL without invoice
+INV-0011,1,0,4222.82,0.00,4222.82,Marketing,,EXCEPTION,Invoice without GL
+INV-0020,1,1,249.52,374.52,-125.00,Administration,Administration,EXCEPTION,Amount mismatch
+INV-0033,1,1,2208.37,2148.37,60.00,Operations,Operations,EXCEPTION,Amount mismatch
+INV-0044,1,0,435.50,0.00,435.50,Administration,,EXCEPTION,Invoice without GL
+INV-0055,1,1,2145.47,2145.47,0.00,Marketing,Operations,EXCEPTION,Department mismatch
+INV-0066,1,2,3253.89,6507.78,-3253.89,IT,IT,EXCEPTION,Duplicate GL; Amount mismatch

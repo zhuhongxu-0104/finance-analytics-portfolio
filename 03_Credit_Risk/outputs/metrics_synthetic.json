@@ -1,0 +1,24 @@
+{
+  "data_mode": "synthetic",
+  "dataset_size": 3200,
+  "train_n": 2400,
+  "test_n": 800,
+  "default_rate": 0.104375,
+  "test_default_rate": 0.10375,
+  "roc_auc": 0.6784291979634016,
+  "avg_precision": 0.24174550153553917,
+  "brier_score": 0.08746204003593115,
+  "threshold": 0.2,
+  "confusion_matrix_tn_fp_fn_tp": [
+    [
+      652,
+      65
+    ],
+    [
+      59,
+      24
+    ]
+  ],
+  "excluded_demographic_features": [],
+  "interpretation": "Exploratory educational baseline, NOT loan decisioning or underwriting."
+}
